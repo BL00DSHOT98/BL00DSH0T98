@@ -21,7 +21,7 @@ body{
 body.page-uprising{
   background:
     linear-gradient(rgba(6,8,14,0.85), rgba(6,8,14,0.85)),
-    url("Images/Bg1.png");
+    url("./Images/Bg1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -576,4 +576,5 @@ html, body { overflow-x: hidden; }
   .hint{
     margin-left: 24px;
   }
+
 }
